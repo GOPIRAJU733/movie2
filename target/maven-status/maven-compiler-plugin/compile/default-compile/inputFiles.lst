@@ -1,0 +1,6 @@
+/home/nxtwavetech/Desktop/movie/src/main/java/com/example/movie/controller/MovieController.java
+/home/nxtwavetech/Desktop/movie/src/main/java/com/example/movie/repository/MovieRepository.java
+/home/nxtwavetech/Desktop/movie/src/main/java/com/example/movie/MovieApplication.java
+/home/nxtwavetech/Desktop/movie/src/main/java/com/example/movie/service/MovieJpaService.java
+/home/nxtwavetech/Desktop/movie/src/main/java/com/example/movie/model/Movie.java
+/home/nxtwavetech/Desktop/movie/src/main/java/com/example/movie/repository/MovieJpaRepository.java
