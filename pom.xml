@@ -73,7 +73,9 @@
 		<scope>test</scope>
 	</dependency>
 
+		
 		<!-- normal testing junit dependency -->
+		
 	<dependency>
 		<groupId>junit</groupId>
 		<artifactId>junit</artifactId>
