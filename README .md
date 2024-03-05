@@ -115,6 +115,7 @@ Returns a movie based on the `movieId`. If the given `movieId` is not found in t
 }
 ```
 
+
 ### API 4
 
 #### Path: `/movies/{movieId}`
